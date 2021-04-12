@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cheng-ren
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Cheng Ren
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on chat
+- 📫 +8613681105571
 
 <!---
 cheng-ren/cheng-ren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
